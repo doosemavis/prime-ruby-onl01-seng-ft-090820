@@ -7,5 +7,5 @@ def prime?(num)
     else (2..n/2).none? do |x|
       n % x == 0 
     end 
-  end 
+    end 
 end 
