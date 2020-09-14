@@ -1,10 +1,9 @@
 def prime?(num)
   num.to_a do |n|
-    if n > 2 
+    if n > 0  
       true 
     else
       false
     end 
-    num 
   end 
 end 
