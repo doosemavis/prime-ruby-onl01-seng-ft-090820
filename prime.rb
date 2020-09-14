@@ -1,1 +1,1 @@
-# Add  code here!
+def prime?()# Add  code here!
